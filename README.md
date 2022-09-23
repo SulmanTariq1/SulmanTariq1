@@ -1,6 +1,5 @@
 ### Hi there 👋
-A creative and hardworking professional focused on growing in the field of IT. A fast learner and dedicated person to work with more than nine years of experience.
-Here are some ideas to get you started:
+A creative and hardworking professional focused on growing in the field of IT. Love to work in .net, .net core, Angular and Azure cloud. Currently working as an architect at CodeNinja.
 
 - 🔭 I’m currently working on .net, .net core, .net 6.0 and angular.
 - 🌱 I’m currently learning Azure devlopment.
