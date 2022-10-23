@@ -1,7 +1,7 @@
 ### Hi there 👋
 A creative and hardworking professional focused on growing in the field of IT. Love to work in .net, .net core, Angular and Azure cloud. Currently working as an architect at CodeNinja.
 
-- 🔭 I’m currently working on .net, .net core, .net 6.0 and angular.
+- 🔭 I’m currently working on .net, .net core, .net 6.0, spring boot and angular.
 - 🌱 I’m currently learning Azure devlopment.
 - 👯 I’ve done Microsoft Azure Fundamentals(Az 900), Google Project Management Certification, Scrum fundamentals certification, PMI Fundamentals of Aglie and PMI Fundamentals of Waterfall. (https://www.linkedin.com/in/sulman-tariq/details/certifications/)
 - 📫 How to reach me: sulman.tariq@yaoo.com
